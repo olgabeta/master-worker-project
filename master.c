@@ -1,11 +1,3 @@
-/*
-    Code written by:
-    Stefania Douliaka, 00974
-    Panagiotis Karoutsos, 02034
-    Olga Vasileiou, 01691
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
