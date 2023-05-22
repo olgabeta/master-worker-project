@@ -1,4 +1,4 @@
-# Master-worker binary-to-decimal project in ADVANCED PROGRAMMING uni course
+# Master-worker project
 
 In this group project, we were asked to program the conversion of a binary number to its decimal equivalent using message queues, shared memory, semaphores and signals. 
 
